@@ -56,12 +56,4 @@ Além da implementação tradicional para vetores, o Merge Sort foi aplicado a *
 ## 📌 Conclusão
 A análise comparativa do **Merge Sort** permitiu entender como diferentes variações impactam seu desempenho. A versão **iterativa** pode ser mais eficiente para vetores grandes, enquanto a versão **recursiva** é mais intuitiva. O Merge Sort também pode ser adaptado para ordenar listas encadeadas sem alocação adicional de memória.
 
----
 
-### 🛠 Como Usar
-
-1. **Crie um arquivo chamado** `README.md`.
-2. **Copie e cole** o conteúdo acima.
-3. **Salve o arquivo** e adicione ao seu repositório no GitHub.
-
-Se precisar de ajustes ou quiser incluir mais detalhes, me avise! 🚀😊
